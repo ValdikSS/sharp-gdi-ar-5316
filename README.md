@@ -83,7 +83,7 @@ Example: `200z0p0s600r0j1o1x800000a0h1m0v0i0b0t600d1c0e`
 Known keys:
 * **200z** — output/driver type
 * **r**  – print resolution in dpi  (300 = draft, 600 = normal/photo)
-* **d**  – collation: 1=collate (default), 0=no collate
+* **c**  – collation: 1=collate (default), 0=no collate
 
 Other keys appear to be fixed/unknown. They are mostly used in SPLC driver, but not GDI.
 
